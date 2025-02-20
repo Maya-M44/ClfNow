@@ -1,0 +1,11 @@
+Playwright JavaScript:
+
+npx playwright test --grep "" --project chromium --headed
+
+npx playwright test --project chromium
+
+
+test('', async ({ page }) => {
+
+});
+
