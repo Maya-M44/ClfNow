@@ -20,3 +20,6 @@ Maya
 Sakthi
 mari
 muppudathi
+
+a=[1,2,3,2]
+b=pop.(3)
